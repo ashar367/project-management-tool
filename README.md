@@ -3,7 +3,7 @@ The development of successful software product requires systematic and defined s
 
 ## Screen shots
 
-*Software Development Process
+* Software Development Process
 
 ![Image of objects](https://github.com/ashar367/project-management-tool/blob/master/pmg-01.png)
 
@@ -26,11 +26,11 @@ The stakeholders whether learners, Instructors, SME, mobile service providers, d
 
 ## Screen shots
 
-*LOGIN/ REGISTRATION- Role based
+* LOGIN/ REGISTRATION- Role based
 ![Image of objects](https://github.com/ashar367/project-management-tool/blob/master/1-0.png)
 
-*REQUIREMENTS ELICITATION-Reports
+* REQUIREMENTS ELICITATION-Reports
 ![Image of objects](https://github.com/ashar367/project-management-tool/blob/master/1-1.png)
 
-*SOFTWARE TESTING-Reports
+* SOFTWARE TESTING-Reports
 ![Image of objects](https://github.com/ashar367/project-management-tool/blob/master/c.png)
