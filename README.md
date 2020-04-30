@@ -14,3 +14,13 @@ The development and testing activities take place in parallel. Reporting and fix
 
 ## Engagement of stakeholders
 The stakeholders whether learners, Instructors, SME, mobile service providers, device manufacturers etc., all are consulted at different stages in requirements, designing, testing, deployment, evolution, and maintenance.
+
+## screen shots
+LOGIN/ REGISTRATION- Role based
+![Image of objects](https://github.com/ashar367/project-management-tool/blob/master/1-0.png)
+
+REQUIREMENTS ELICITATION-Reports
+![Image of objects](https://github.com/ashar367/project-management-tool/blob/master/1-1.png)
+
+SOFTWARE TESTING-Reports
+![Image of objects](https://github.com/ashar367/project-management-tool/blob/master/c.png)
